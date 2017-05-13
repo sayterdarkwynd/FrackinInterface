@@ -1,0 +1,10 @@
+{
+  "author" : "sayter",
+  "description" : "Changes the UI for health, energy and food",
+  "friendlyName" : "Frackin' Interface",
+  "includes" : [],
+  "name" : "FrackinInterface",
+  "requires" : [],
+  "version" : "1.0",
+  "priority" : 10
+}
