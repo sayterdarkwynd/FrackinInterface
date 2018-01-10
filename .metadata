@@ -3,8 +3,11 @@
   "description" : "Changes the UI for health, energy and food",
   "friendlyName" : "Frackin' Interface",
   "includes" : [],
+  "link" : "steam://url/CommunityFilePage/1264107917",
   "name" : "FrackinInterface",
+  "priority" : 10,
   "requires" : [],
-  "version" : "1.0",
-  "priority" : 10
+  "steamContentId" : "1264107917",
+  "tags" : "User Interface",
+  "version" : "1.0"
 }
