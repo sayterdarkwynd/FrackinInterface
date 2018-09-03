@@ -1,6 +1,6 @@
 {
   "author" : "sayter",
-  "description" : "Changes the UI for health, energy and food\n\n1.4 - healthbar is wider at the left side to be more visible\n\n1.3 - darkens energy bar background\n\n1.2 - additional UI elements added. More detail given to Health, Energy and Food bars\n\n1.1 - adds Startech support for Terminals and Quickslot",
+  "description" : "Changes the UI for health, energy and food\n\n1.5 - new Chat interface! (Lillyoko)\n1.4 - healthbar is wider at the left side to be more visible\n\n1.3 - darkens energy bar background\n\n1.2 - additional UI elements added. More detail given to Health, Energy and Food bars\n\n1.1 - adds Startech support for Terminals and Quickslot",
   "friendlyName" : "Frackin' Interface",
   "includes" : [],
   "link" : "steam://url/CommunityFilePage/1264107917",
@@ -9,5 +9,5 @@
   "requires" : [],
   "steamContentId" : "1264107917",
   "tags" : "User Interface",
-  "version" : "1.4"
+  "version" : "1.5"
 }
